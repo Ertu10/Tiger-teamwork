@@ -1,6 +1,2 @@
-this line from yunus
-
-Ismail added sth
-=======
-bu da durmuşun satırı
+﻿cok degisik oldu
 
