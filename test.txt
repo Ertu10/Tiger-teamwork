@@ -1,4 +1,14 @@
+<<<<<<< HEAD
 ﻿cok degisik oldu
 
+=======
+ben buna başlık bulamadım
+Ismail added sth
+=======
+bu da durmuşun satır
+ajdshjkasdhasd
+=======
+>>>>>>> e9b04ca39d6a0d5182947e479d02a93bb48ee3c1
 
 hello Tigers
+
